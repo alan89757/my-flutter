@@ -11,10 +11,10 @@ class MyApp extends StatelessWidget {
       title: 'Welcome to Flutter',
       home: new Scaffold(
         appBar: new AppBar(
-          title: new Text('Welcome to Flutter'),
+          title: new Text('Welcome to Flutter22'),
         ),
         body: new Center(
-          child: new Text(wordPair.asPascalCase),
+          child: new Text('123'),
         ),
       ),
     );
